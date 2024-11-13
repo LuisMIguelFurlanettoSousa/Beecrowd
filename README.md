@@ -22,13 +22,13 @@ cd beecrowd/<pasta-do-exercicio>
 ```
 Execute o código no seu ambiente de desenvolvimento ou terminal.
 **Exemplos de Exercícios**
- **Iniciante**
+ - **Iniciante**
 - **1001** - Extremamente Básico (1001_extremamente_basico.py): Exercício de soma simples para familiarizar-se com a entrada e saída em Python.
 - **1003** - Soma Simples (1003_soma_simples.py): Um exercício que pede a soma de dois números inteiros e exibe o resultado.
- **Intermediário**
+ - **Intermediário**
 - **1024** - Criptografia (1024_criptografia.py): Uma questão de criptografia básica que requer manipulação de strings.
 - **1040** - Média do Aluno (1040_media_do_aluno.py): Cálculo da média de um aluno com diferentes pesos para cada nota.
- **Avançado**
+ - **Avançado**
 - **1111** - Torre de Controle (1111_torre_de_controle.py): Um exercício de algoritmo de grafos, para a solução de problemas de conectividade.
 - **1295** - Polígono de Convexidade (1295_poligono_de_convexidade.py): Um problema avançado de geometria computacional.
 
